@@ -1,7 +1,5 @@
-gv5g  <?php
-
+<?php
 namespace App\Http\Controllers;
-
 use App\Apisss;
 use Illuminate\Http\Request;
 use App\User;
